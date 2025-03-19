@@ -1,0 +1,76 @@
+body {
+    width: 100%;
+    background-color: hsl(0, 0%, 8%);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    background-color: hsl(0, 0%, 12%);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    height: 800px;
+    width: 500px;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+.upper-container h1 {
+    font-family: "Spectral", serif;
+    color: white;
+    text-align: center;
+    line-height: 2px;
+}
+
+.upper-container p {
+    font-family: "Spectral", serif;
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    margin-top: 5px;
+    line-height: 40px;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+.lower-container {
+    text-align: center;
+    
+}
+
+.social-links {
+    width: 450px;
+    height: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    background-color: hsl(0, 0%, 20%);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    align-content: center;
+    border-color: transparent;
+}
+
+.p-2 {
+    font-family: "Spectral", serif;
+    color: white;
+    text-align: center;
+}
+@media(max-width:375px){
+    
+}
