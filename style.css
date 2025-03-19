@@ -72,5 +72,19 @@ a {
     text-align: center;
 }
 @media(max-width:375px){
+    body{
+        width: 100%;
+    }
+    .container{
+        width:300px;
+    }
+    .social-links{
+        width:150px;
+    }
+    .photo{
+        margin-top: 40px;
+        margin-left: 50px;
+        margin-right: 150px;
+    }
     
 }
